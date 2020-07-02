@@ -16,4 +16,3 @@ Warning: componentWillReceiveProps has been renamed, and is not recommended for 
 
 Please update the following components: DateTime, Switch
 ```
-- Added Reactstrap as base framework
